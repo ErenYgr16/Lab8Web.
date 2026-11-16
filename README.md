@@ -2,7 +2,7 @@
 
 ## 1. Membuat Database dan Tabel
 Membuat database baru dengan nama `latihan1` serta tabel `data_barang` melalui phpMyAdmin, lalu mengisinya dengan data awal.
-<img width="1349" height="600" alt="Screenshot from 2026-11-16 13-34-27" src="https://github.com/user-attachments/assets/8c66b040-5dd9-4037-b271-6248f4e4c872" />
+<img width="1366" height="738" alt="Screenshot from 2026-11-16 13-35-34" src="https://github.com/user-attachments/assets/ca960765-a86c-4279-822b-dd0a8df81a33" />
 <img width="1366" height="738" alt="Screenshot from 2026-11-16 13-35-45" src="https://github.com/user-attachments/assets/8b345eb0-a9e9-46e3-a7e1-9f324705305b" />
 <img width="1366" height="738" alt="Screenshot from 2026-11-16 13-37-10" src="https://github.com/user-attachments/assets/a98aff2b-12ed-4a31-b878-8adec2f6be41" />
 
